@@ -1,4 +1,4 @@
-# Quote Recommender System powered by a simple Retrieval-Augmented Generation (RAG) System
+# Quote Recommendations using a simple RAG System
 
 This is a beginner-friendly project that demonstrates the core concepts of a Retrieval-Augmented Generation (RAG) system in a creative area - to recommend quotes! 
 It allows users to search for relevant quotes based on their query and receive a generated explanation using OpenAI's GPT models.
